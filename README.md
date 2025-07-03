@@ -4,7 +4,7 @@
 
 ##  Live Demo
 
-👉 [Click here to view the application](https://your-deployment-link.com)
+👉 [Click here to view the application](https://smartenergyoptimizer-sjoqmeydbyze5lvgtlrzsa.streamlit.app/)
 
 ---
 
